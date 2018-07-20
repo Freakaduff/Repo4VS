@@ -13,7 +13,6 @@ namespace Repo4VS
 
             Console.WriteLine("Git repo 4VS");
             Console.WriteLine("Version 1");
-            Console.WriteLine("By me");
             Console.Read();
         }
     }
